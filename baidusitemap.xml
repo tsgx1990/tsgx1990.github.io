@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://dabaotthao.com/2018/07/04/code-push/</loc>
+    <lastmod>2018-07-06T05:15:35.115Z</lastmod>
+    <data>
+        <display>
+        <title>搭建本地 code-push-server 以及 code-push 的使用</title>
+        <pubTime>2018-07-04T11:03:28.000Z</pubTime>
+        
+        <tag>ReactNative</tag>
+         
+        <tag>code-push</tag>
+         
+        <tag>code-push-server</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://dabaotthao.com/2017/12/12/hello-world/</loc>
+    <lastmod>2018-07-05T06:44:05.820Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-12-12T08:58:03.891Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+</urlset>
